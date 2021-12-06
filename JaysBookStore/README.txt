@@ -78,7 +78,8 @@ After an hour i started project part 2/
 
 
 
-There is exception error, which was tuff to solve so Start Again.
+There are many error which cannot be possible to solve according to the instructor consistency require
+And the error are in Menu, Git And also the exception error, which was tuff to solve so Start Again.
 
 30-11-2021
 1000: Start by adding to git and strat phase 1  
@@ -106,8 +107,12 @@ There is exception error, which was tuff to solve so Start Again.
 01-12-2021
 
 0900: Completed the project part 1 after take a back up of the project.
-0905: Start 
+0905: Start project part2 
+0910: At the firsr i added new folder name Respository and sub folder named Irepository.
+0916: Change the header files requied code.
 
+1120: Implement the class that implement the repository.
+1200: I reach to unit of work but i cannnot 
 
 
 
