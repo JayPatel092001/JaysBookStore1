@@ -112,7 +112,28 @@ And the error are in Menu, Git And also the exception error, which was tuff to s
 0916: Change the header files requied code.
 
 1120: Implement the class that implement the repository.
-1200: I reach to unit of work but i cannnot 
+1200: add interfaces in IRepository.
+1230:Change stratup file and aslo add controller as well
+1300: take luch break.
+
+02-12-21
+1400: change the Category and add category controller and it rub bu show the returnToList error which is kind of exception error. 
+1410: Try to run the application and solve the problem of git and menu item in this project but there is problem in Excetiption which occure ehile running the application 
+
+And Then after some days I am little bit seek for 2 days.
+
+05-12-21
+1500: try to resolve the error and then take help and they said data base is not connect to that update database.
+1510: I chnage and add-migration and update database but not work properly after that send to the instructor. 
+1700: Try to resolve the issue and how work but donnot know that it connect to database or not.
+1800: Exception error occure and i cannot be able to create category which was issuse as last time i have and take a look over given git 
+and try to change accordingly but this time same issue of consistency i thought this time as weel i have to strat again from the part because i have back up of part 1 
+1900: Try from the part 2 again but the isse of database occure because past database was their and so delete the database. 
+
+2000: Try again to solve this issue and then i am able to strat part2
+2300: But still the problem occure while creating category and this time show error in we page instead of redirect to the visual. 
+
+
 
 
 
