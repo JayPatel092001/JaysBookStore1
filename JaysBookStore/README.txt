@@ -81,7 +81,7 @@ After an hour i started project part 2/
 There are many error which cannot be possible to solve according to the instructor consistency require
 And the error are in Menu, Git And also the exception error, which was tuff to solve so Start Again.
 
-30-11-2021
+29-11-2021
 1000: Start by adding to git and strat phase 1  
 1015: change all given links first i don't have idea that links in given and i find for half and hour like where this page is:
 1050:I got and change all links
